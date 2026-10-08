@@ -1,0 +1,17 @@
+# Local evaluation outputs and machine-specific installation records
+/evals/outputs-*.json
+/evals/installed-files.json
+/evals/execution-fixture/
+/docs/*.local.md
+/.publish-local/
+
+# Local development environments and editor files
+/.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/
+.env
+.env.*

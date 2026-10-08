@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 대화로 프롬프트 만들기"
+  short_description: "한국어 대화로 생각과 수정 요청을 구체화해 실행할 프롬프트로 정리해요"
+  default_prompt: "$korean-prompt-dialogue 내 생각을 대화로 구체화해서 AI에게 전달할 프롬프트로 정리해 줘."
