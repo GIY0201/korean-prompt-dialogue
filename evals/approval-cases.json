@@ -1,0 +1,7 @@
+[
+  {"id":"C1","conversation":[{"role":"user","content":"$korean-prompt-dialogue 협업 앱에서 이전 기록을 더 잘 활용하는 기능을 만들고 싶어. 먼저 사용자들이 지난 자료를 찾는 방식을 조사해 보자. 조사 끝나면 기능 설계도 해 보자."}]},
+  {"id":"C2","conversation":[{"role":"user","content":"$korean-prompt-dialogue README 제목 ‘시작’을 ‘빠른 시작’으로 바꾸고 바로 수정까지 해 줘. 본문은 유지해."}]},
+  {"id":"C3","conversation":[{"role":"user","content":"$korean-prompt-dialogue 다른 AI에게 보낼 프롬프트만 써 줘. 검색 결과에서 검색어 일치 부분을 강조하고, 결과 내용과 순서와 검색 로직은 유지해야 해. 프로젝트는 거기에 붙일게."}]},
+  {"id":"C4","conversation":[{"role":"user","content":"$korean-prompt-dialogue 설정 화면을 바꾸자. 모바일 화면에만 이메일 알림을 추가하고 기존 푸시 알림은 유지해."},{"role":"assistant","content":"모바일 알림 설정에 이메일 설정을 추가하고 기존 푸시 설정과 동작을 유지하는 프롬프트입니다. 이 프롬프트로 작업을 진행해도 될까요?"},{"role":"user","content":"이메일 말고 문자 알림으로 바꿔 줘. 모바일 범위와 기존 푸시 유지 조건은 그대로."}]},
+  {"id":"C5","conversation":[{"role":"user","content":"$korean-prompt-dialogue 메모를 다시 찾기 쉽게 할 기능을 고민하고 있어. 아직 구현은 하지 말고 같이 정리하자."},{"role":"assistant","content":"이전에 쓴 내용을 찾는 시간을 줄이고 싶은 건가요?"},{"role":"user","content":"네, 검색어가 기억 안 나서 다시 못 찾는 게 문제야."}]}
+]

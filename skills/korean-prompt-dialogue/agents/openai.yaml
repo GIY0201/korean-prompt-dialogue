@@ -1,4 +1,4 @@
 interface:
   display_name: "한국어 대화로 프롬프트 만들기"
-  short_description: "한국어 대화로 생각과 수정 요청을 구체화해 실행할 프롬프트로 정리해요"
-  default_prompt: "$korean-prompt-dialogue 내 생각을 대화로 구체화해서 AI에게 전달할 프롬프트로 정리해 줘."
+  short_description: "한국어로 생각을 구체화하고 공식 가이드로 프롬프트를 작성해 승인 후 실행해요"
+  default_prompt: "$korean-prompt-dialogue 내 생각을 대화로 구체화하고 OpenAI 공식 가이드에 맞는 프롬프트를 보여 준 뒤 실행해도 될지 물어봐 줘."

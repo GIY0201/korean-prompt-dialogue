@@ -114,6 +114,10 @@
 
 [SKILL.md 원문](https://github.com/github/awesome-copilot/blob/main/skills/prompt-optimizer/SKILL.md). 2026년 10월 9일 공개된 지침 확인. 단일 완성 프롬프트, 빈칸 배제, 같은 언어 출력, 부족한 자료를 받는 AI가 질문하는 규칙 등을 비교 대상으로 삼는다. 작성자가 제시한 성능 관련 설명은 독립 비교 실험으로 검증된 결과와 구분한다. 변동 가능한 main 브랜치이므로 실제 비교 실험 때에는 버전이나 커밋을 고정해야 한다.
 
+**26. OpenAI, ChatGPT Enterprise: Practical prompt engineering for everyday work**
+
+[공식 가이드](https://developers.openai.com/cookbook/examples/chatgpt/chatgpt_prompt_guide/chatgpt_prompt_guide). 2026년 10월 9일 본문 확인. 배경·구체적 지시·추가 정보와 제약, 산출물과 완료 기준, 필요한 정확성 점검, 대화를 통한 프롬프트 작성 원칙을 적용했다. 가이드는 단 하나의 완벽한 고정 템플릿을 제시하지 않는다. 실행 전 사용자 승인을 받는 절차는 이 자료가 강제한 규칙이 아니라 사용자 요구다.
+
 ## 이번 조사에서 유보한 주장
 
 - 한국어가 본질적으로 다른 언어보다 모호하거나 프롬프트에 부적합하다는 주장
